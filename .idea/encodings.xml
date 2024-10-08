@@ -5,7 +5,13 @@
     <file url="file://$PROJECT_DIR$/api/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/business/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/business/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dao/Conta/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dao/Conta/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dao/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dao/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dao/src/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dao/src/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
 </project>

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/kamban.iml" filepath="$PROJECT_DIR$/.idea/kamban.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dao.iml" filepath="$PROJECT_DIR$/dao.iml" />
     </modules>
   </component>
 </project>
