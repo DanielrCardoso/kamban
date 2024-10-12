@@ -5,11 +5,11 @@ package org.Kambam.Cartao.Entidade;
 @Setter
 public class Cartao {
     @id
-    private string codigo;
+    private String codigo;
     @Column
-    private string nome;
+    private String nome;
     @Column
-    private string descricao;
+    private String descricao;
     @Column
-    private int coluna;
+    private String coluna;
 }

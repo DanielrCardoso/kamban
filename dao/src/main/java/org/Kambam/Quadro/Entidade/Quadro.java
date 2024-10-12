@@ -5,11 +5,11 @@ package org.Kambam.Quadro.Entidade;
 @Setter
 public class Quadro {
     @id
-    private string codigo;
+    private String codigo;
     @Column
-    private streing nome;
+    private String nome;
     @Column
-    private string descricao;
+    private String descricao;
     @Column
-    private int Limite;
+    private Integer Limite;
 }

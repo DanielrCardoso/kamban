@@ -5,10 +5,10 @@ package org.Kambam.Conta.Entidade;
 @Setter
 public class Conta {
     @id
-    private string email;
+    private String email;
     @Column
-    private streing nome;
+    private String nome;
     @Column
-    private string senha;
+    private String senha;
 
 }
