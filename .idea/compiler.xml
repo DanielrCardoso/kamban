@@ -8,8 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="business" />
         <module name="api" />
-        <module name="dao" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Conta" target="1.8" />
+      <module name="src" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
