@@ -1,5 +1,8 @@
 package org.Kambam.Quadro.Entidade;
 
+import lombok.Getter;
+import lombok.Setter;
+
 @Entity
 @Getter
 @Setter
